@@ -1,4 +1,6 @@
 # Web Map of Airports in the United States
+**Author:** Angel Lin
+**Date:** 2020/05/03
 
 ![airport map](img/airport.JPG)
 
