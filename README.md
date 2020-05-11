@@ -1,5 +1,4 @@
 # Web Map of Airports in the United States
-# Pokemon Go Theme Taipei Map
 **Author:** Angel Lin
 <br>**Date:** 2020/05/03
 <br>**Website:** https://angellinn.github.io/airports/
